@@ -15,15 +15,15 @@
 <br />
  <div>
 <label>
-<input type="radio" name="r1" value="add" />addition
+<input type="radio" name="r1" value="add" />ADDITION
 <br />
 </label>
 <label>
-<input type="radio" name="r2" value="sub" />substraction
+<input type="radio" name="r2" value="sub" />SuBtRaTiOn
 <br />
 </label>
 <label>
-<input type="radio" name="r3" value="prod" />product
+<input type="radio" name="r3" value="prod" />pRODUct
 <br />
 </label>
 
